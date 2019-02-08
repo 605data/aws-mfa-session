@@ -43,11 +43,11 @@ https://boto3.amazonaws.com/v1/documentation/api/latest/guide/configuration.html
 
 ## Examples
 
-1. If you are going to use your default AWS profile, you just need to run "./aws-mfa-session in your shell/terminal.
+1. If you are going to use your default AWS profile, you just need to run "./aws-mfa-session" in your shell/terminal.
 
-2, If you want to specify a custom AWS profile, you can run like this "AWS_PROFILE=605-management ./aws-mfa-session. 
+2. If you want to specify a custom AWS profile, you can run like this "AWS_PROFILE=605-management ./aws-mfa-session". 
 
-3, To get your AWS session token expiration time, run below in your aws-mfa-session shell session
+3. To get your AWS session token expiration time, run below in your aws-mfa-session shell session
 
 > echo $AWS_SESSION_EXPIRATION 
 
