@@ -2,7 +2,7 @@
 
 ## Introduction
 
-For security reason, a lot of companies mandate their AWS users to use MFA for their AWS API access. aws-mfa-session is a command line tool to get your temporary AWS session credentials with your MFA device/token, and export the credentials into your new shell session. Hopefully, this command line tool can help you to mitigate the pain level brought in by your company seurity policies.
+For security reasons, a lot of companies mandate their AWS users to use the MFA for their AWS API accesses. aws-mfa-session is a command line tool to get your temporary AWS session credentials with your MFA device/token, and export the credentials into your new shell session. Hopefully, this command line tool can help you to mitigate the pain level which is brought in by your company seurity policies.
 
 ## Prerequisite
 It requires your AWS account, and AWS credentials/profiles file to be setup on your computer.
@@ -38,7 +38,7 @@ https://boto3.amazonaws.com/v1/documentation/api/latest/guide/configuration.html
 ## How to run it
 
 1. Copy aws_mfa.yml.sample to aws_mfa.yml.
-2. Put your aws MFA virtual devices' id into aws_mfa.yml. 
+2. Put your aws MFA virtual device's ids into aws_mfa.yml. 
 3. Run "./aws-mfa-session help" to print usage and help messages
 
 ## Examples
@@ -56,4 +56,4 @@ Have fun and enjoy !!!
 
 
 -----
-Note: This project is heavily developing, No PRs will be accepted at this moment.
+Note: No PRs will be accepted at this moment.
