@@ -14,7 +14,7 @@ https://boto3.amazonaws.com/v1/documentation/api/latest/guide/configuration.html
 ## Binary downloads
 
 * macOS \
-  [64-bit](https://drive.google.com/uc?export=download&id=1NXPTuuTF2u72fehHL0SCB4B9PmQd_NwB)
+  [64-bit](https://drive.google.com/uc?export=download&id=16RNi05XNIqE47FfuMUqQ404epZPawIqV)
 * Linux \
   [64-bit](https://drive.google.com/uc?export=download&id=1h1QfVWkgJry7lJO_QnaTTxh2oAgsl7Ne)
 * Windows \
