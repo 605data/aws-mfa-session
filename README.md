@@ -27,7 +27,7 @@ https://boto3.amazonaws.com/v1/documentation/api/latest/guide/configuration.html
    For macOS|Linux
    > $ tar -xvf aws-mfa-session.tgz \
    > $ cd aws-mfa-session \
-   > $ chown +x aws-mfa-session
+   > $ chmod +x aws-mfa-session
 
     Directory layout
 
