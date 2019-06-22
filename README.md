@@ -49,11 +49,6 @@ https://boto3.amazonaws.com/v1/documentation/api/latest/guide/configuration.html
 
 3. To get your AWS session token expiration time, run below in your aws-mfa-session shell session
 
-> echo $AWS_SESSION_EXPIRATION 
-
+> echo $AWS_SESSION_EXPIRATION
 
 Have fun and enjoy !!!
-
-
------
-Note: No PRs will be accepted at this moment.
