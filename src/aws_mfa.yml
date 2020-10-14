@@ -1,0 +1,11 @@
+##
+# AWS profile temporary session settings 
+##
+
+profiles:
+  - default:
+      mfa: arn:aws:iam::aws_account_id:mfa/user
+      session_timeout: 32400
+  - 605-dev:
+      session_timeout: 32400
+
